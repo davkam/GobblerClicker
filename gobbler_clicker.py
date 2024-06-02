@@ -2,7 +2,6 @@ import keyboard
 import os
 import pyautogui
 import pystray
-import sys
 import threading
 import tkinter
 import time
