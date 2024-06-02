@@ -9,3 +9,4 @@ How To Use:
 
 Requirements:
 - Windows OS
+- See requirements.txt for dependencies
